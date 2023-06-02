@@ -1,0 +1,9 @@
+{
+	"name": "ablgroup",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c76b285b-a5e1-4304-b8da-7898d648a248",
+		"tenantId": "c724545a-25f4-4a3a-9b83-146f10d6d704"
+	}
+}
